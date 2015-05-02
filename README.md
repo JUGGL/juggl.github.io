@@ -11,7 +11,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 4. Dynamic languages on the JVM: JRuby, Jython, Ceylon, PHP, etc...
 5. Purpose built languages for the JVM: Scala, Clojure, Kotlin, etc...
 
-## Links
+### Links
 
 * [@JUGGLou on Twitter](https://twitter.com/JUGGLou)
 * [@JUGGLou on Facebook](https://www.facebook.com/JUGGLou)
@@ -22,7 +22,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 * [JUGGL forums at Google Groups](https://groups.google.com/forum/#!forum/juggl)
 
 
-## Projects
+### Projects
 
 * [Vert.x Chat Workshop](http://www.juggl.us/codepalousa-vertx-chat/) - A workshop for learning how to write applications using the [Vert.x](http://vertx.io/) toolkit in JavaScript on the JVM.
 * [JMX Example](http://www.juggl.us/JMXExample/) - An application demo about using Java Management Extensions to monitor your Java applications.
