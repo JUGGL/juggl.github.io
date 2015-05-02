@@ -7,11 +7,11 @@ This is the site for the Java Users Group of Greater Louisville, a.k.a. JUGGL. W
 enthusiasts who are interested in learning about [Java](http://www.java.com/), the Java Virtual Machine, and all of the
 things you can do on top of the JVM. This includes, but it not necessarily limited to:
 
-1. Java Development
-2. JavaEE - Java Enterprise Edition
-3. JavaScript development with Nashorn
-4. Dynamic languages on the JVM: JRuby, Jython, Ceylon, PHP, etc...
-5. Purpose built languages for the JVM: Scala, Clojure, Kotlin, etc...
+* Java Development
+* JavaEE - Java Enterprise Edition
+* JavaScript development with Nashorn
+* Dynamic languages on the JVM: JRuby, Jython, Ceylon, PHP, etc...
+* Purpose built languages for the JVM: Scala, Clojure, Kotlin, etc...
 
 ## Links
 
