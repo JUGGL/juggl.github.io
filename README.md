@@ -1,7 +1,7 @@
 # Java Users Group of Greater Louisville - JUGGL
 
 <div style="width: 100%; margin: auto;">
-![JUGGL Logo](https://raw.githubusercontent.com/JUGGL/juggl.github.io/master/images/JUGGL-logo.png)
+  <img src="https://raw.githubusercontent.com/JUGGL/juggl.github.io/master/images/JUGGL-logo.png" alt="JUGGL Logo">
 </div>
 
 ## Welcome
