@@ -24,7 +24,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 * [JUGGL forums at Google Groups](https://groups.google.com/forum/#!forum/juggl)
 
 
-## Projects
+## Presentations
 
 * [Vert.x Chat Workshop](http://www.juggl.us/codepalousa-vertx-chat/) - A workshop for learning how to write applications using the [Vert.x](http://vertx.io/) toolkit in JavaScript on the JVM.
 * [JMX Example](http://www.juggl.us/JMXExample/) - An application demo about using Java Management Extensions to monitor your Java applications.
