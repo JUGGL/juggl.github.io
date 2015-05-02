@@ -1,5 +1,7 @@
 # Java Users Group of Greater Louisville - JUGGL
 
+![JUGGL Logo](https://raw.githubusercontent.com/JUGGL/juggl.github.io/master/images/JUGGL-logo.png)
+
 ## Welcome
 This is the site for the Java Users Group of Greater Louisville, a.k.a. JUGGL. We are a group of developers and
 enthusiasts who are interested in learning about [Java](http://www.java.com/), the Java Virtual Machine, and all of the
