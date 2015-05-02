@@ -1,6 +1,8 @@
 # Java Users Group of Greater Louisville - JUGGL
 
+<div style="width: 100%; margin: auto;">
 ![JUGGL Logo](https://raw.githubusercontent.com/JUGGL/juggl.github.io/master/images/JUGGL-logo.png)
+</div>
 
 ## Welcome
 This is the site for the Java Users Group of Greater Louisville, a.k.a. JUGGL. We are a group of developers and
