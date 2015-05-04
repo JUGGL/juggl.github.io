@@ -18,14 +18,14 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 ## Links
 
 <ul>
-<li><a href="http://www.juggl.us/" target="_homepage"><img src="images/Github.png" style="margin-right: 3px; align: middle;">JUGGL Homepage - Hosted by GitHub Pages</a></li>
-<li><a href="https://twitter.com/JUGGLou" target="_twitter"><img src="images/Twitter.png" style="margin-right: 3px; align: middle;">@JUGGLou on Twitter</a></li>
-<li><a href="https://www.facebook.com/JUGGLou" target="_facebook"><img src="images/Facebook.png" style="margin-right: 3px; align: middle;">@JUGGLou on Facebook</a></li>
-<li><a href="https://www.google.com/+JugglUs" target="_googleplus"><img src="images/GooglePlus.png" style="margin-right: 3px; align: middle;">JUGGL on Google+</a></li>
-<li><a href="https://www.linkedin.com/groups/Java-Users-Group-Greater-Louisville-3818364" target="_linkedin"><img src="images/LinkedIn.png" style="margin-right: 3px; align: middle;">JUGGL on LinkedIn</a></li>
-<li><a href="http://www.meetup.com/JUGGLou/" target="_meetup"><img src="images/meetup.png" style="margin-right: 3px; align: middle;">JUGGL on Meetup.com</a></li>
-<li><a href="http://webchat.freenode.net?channels=%23juggl" target="_webchat"><img src="images/Freenode.png" style="margin-right: 3px; align: middle;">#JUGGL on Freenode's IRC network</a></li>
-<li><a href="https://groups.google.com/forum/#!forum/juggl" target="_googlegroups"><img src="images/GoogleGroups.png" style="margin-right: 3px; align: middle;">JUGGL forums at Google Groups</a></li>
+<li><a href="http://www.juggl.us/" target="_homepage"><img src="images/Github.png">&nbsp;JUGGL Homepage - Hosted by GitHub Pages</a></li>
+<li><a href="https://twitter.com/JUGGLou" target="_twitter"><img src="images/Twitter.png">&nbsp;@JUGGLou on Twitter</a></li>
+<li><a href="https://www.facebook.com/JUGGLou" target="_facebook"><img src="images/Facebook.png">&nbsp;@JUGGLou on Facebook</a></li>
+<li><a href="https://www.google.com/+JugglUs" target="_googleplus"><img src="images/GooglePlus.png">&nbsp;JUGGL on Google+</a></li>
+<li><a href="https://www.linkedin.com/groups/Java-Users-Group-Greater-Louisville-3818364" target="_linkedin"><img src="images/LinkedIn.png">&nbsp;JUGGL on LinkedIn</a></li>
+<li><a href="http://www.meetup.com/JUGGLou/" target="_meetup"><img src="images/meetup.png">&nbsp;JUGGL on Meetup.com</a></li>
+<li><a href="http://webchat.freenode.net?channels=%23juggl" target="_webchat"><img src="images/Freenode.png">&nbsp;#JUGGL on Freenode's IRC network</a></li>
+<li><a href="https://groups.google.com/forum/#!forum/juggl" target="_googlegroups"><img src="images/GoogleGroups.png">&nbsp;JUGGL forums at Google Groups</a></li>
 </ul>
 
 ## Sponsors
