@@ -25,6 +25,8 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 * [#JUGGL on Freenode's IRC network](http://webchat.freenode.net/?channels=%23juggl)
 * [JUGGL forums at Google Groups](https://groups.google.com/forum/#!forum/juggl)
 
+## Sponsors
+* [TEK Systems](http://www.teksystems.com/)
 
 ## Presentations
 
