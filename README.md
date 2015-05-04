@@ -17,13 +17,16 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 
 ## Links
 
-* [@JUGGLou on Twitter](https://twitter.com/JUGGLou)
-* [@JUGGLou on Facebook](https://www.facebook.com/JUGGLou)
-* [JUGGL on Google+](https://www.google.com/+JugglUs)
-* [JUGGL on LinkedIn](https://www.linkedin.com/groups/Java-Users-Group-Greater-Louisville-3818364)
-* [JUGGL on Meetup.com](http://www.meetup.com/JUGGLou/)
-* [#JUGGL on Freenode's IRC network](http://webchat.freenode.net/?channels=%23juggl)
-* [JUGGL forums at Google Groups](https://groups.google.com/forum/#!forum/juggl)
+    <ul>
+      <li><a href="http://www.juggl.us/" target="_homepage"><img src="images/GitHub.png">JUGGL Homepage - Hosted by GitHub Pages</a></li>
+      <li><a href="https://twitter.com/JUGGLou" target="_twitter"><img src="images/Twitter.png">@JUGGLou on Twitter</a></li>
+      <li><a href="https://www.facebook.com/JUGGLou" target="_facebook"><img src="images/Facebook.png">@JUGGLou on Facebook</a></li>
+      <li><a href="https://www.google.com/+JugglUs" target="_googleplus"><img src="images/GooglePlus.png">JUGGL on Google+</a></li>
+      <li><a href="https://www.linkedin.com/groups/Java-Users-Group-Greater-Louisville-3818364" target="_linkedin"><img src="images/LinkedIn.png">JUGGL on LinkedIn</a></li>
+      <li><a href="http://www.meetup.com/JUGGLou/" target="_meetup"><img src="images/meetup.png">JUGGL on Meetup.com</a></li>
+      <li><a href="http://webchat.freenode.net?channels=%23juggl" target="_webchat"><img src="images/GitHub.png">#JUGGL on Freenode's IRC network</a></li>
+      <li><a href="https://groups.google.com/forum/#!forum/juggl" target="_googlegroups"><img src="images/GoogleGroups.png">JUGGL forums at Google Groups</a></li>
+    </ul>
 
 ## Sponsors
 * [TEK Systems](http://www.teksystems.com/)
