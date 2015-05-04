@@ -21,7 +21,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 * [@JUGGLou on Facebook](https://www.facebook.com/JUGGLou)
 * [JUGGL on Google+](https://www.google.com/+JugglUs)
 * [JUGGL on LinkedIn](https://www.linkedin.com/groups/Java-Users-Group-Greater-Louisville-3818364)
-* JUGGL on Meetup.com (Coming Soon!)
+* [JUGGL on Meetup.com](http://www.meetup.com/JUGGLou/)
 * [#JUGGL on Freenode's IRC network](http://webchat.freenode.net/?channels=%23juggl)
 * [JUGGL forums at Google Groups](https://groups.google.com/forum/#!forum/juggl)
 
