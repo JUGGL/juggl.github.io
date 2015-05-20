@@ -29,7 +29,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 </ul>
 
 ## Sponsors
-* [TEK Systems](http://www.teksystems.com/)
+* [TEK Systems](http://www.teksystems.com/) <img src="http://www.teksystems.com/~/media/teksystems_com/images/utility_images/teksystems-logo.png" alt="Tek Systems Logo">
 * [O'Reilly Media](http://oreilly.com) <img src="https://lh4.googleusercontent.com/_AhbD0ZrwwtRnqFmvJKSiTWAOtnfQ1Wm522syvNCX_raXXm_hcmExSQiU2037Z-cEVxpPw=w1051-h704" alt="O'Reilly Discount Tag">
 
 ## Presentations
