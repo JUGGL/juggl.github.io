@@ -11,9 +11,9 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 
 * Java Development
 * JavaEE - Java Enterprise Edition
-* JavaScript development with Nashorn
-* Dynamic languages on the JVM: JRuby, Jython, Ceylon, PHP, etc...
-* Purpose built languages for the JVM: Scala, Clojure, Kotlin, etc...
+* JavaScript development with [Nashorn](http://openjdk.java.net/projects/nashorn/)
+* Dynamic languages on the JVM: [JRuby](http://jruby.org/), [Jython](http://www.jython.org/), [Ceylon](http://ceylon-lang.org/), PHP, etc...
+* Purpose built languages for the JVM: [Scala](http://scala-lang.org/), [Clojure](http://clojure.org/), [Kotlin](http://kotlinlang.org/), etc...
 
 ## Links
 
@@ -31,7 +31,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 ## Sponsors
 * [TEK Systems](http://www.teksystems.com/)
 * [JetBrains](https://www.jetbrains.com/) - Attend our next meetup for a chance to win an free license to the JetBrains IDE of your choice!
-* [O'Reilly Media](http://oreilly.com) <img src="https://lh4.googleusercontent.com/_AhbD0ZrwwtRnqFmvJKSiTWAOtnfQ1Wm522syvNCX_raXXm_hcmExSQiU2037Z-cEVxpPw=w1051-h704" alt="O'Reilly Discount Tag">
+* [O'Reilly Media](http://oreilly.com)
 
 ## Presentations
 
