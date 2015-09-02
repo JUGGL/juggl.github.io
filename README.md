@@ -31,6 +31,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 ## Sponsors
 * [TEK Systems](http://www.teksystems.com/)
 * [JetBrains](https://www.jetbrains.com/) - Attend our next meetup for a chance to win an free license to the JetBrains IDE of your choice!
+* [O'Reilly Media](http://oreilly.com) <img src="https://lh4.googleusercontent.com/_AhbD0ZrwwtRnqFmvJKSiTWAOtnfQ1Wm522syvNCX_raXXm_hcmExSQiU2037Z-cEVxpPw=w1051-h704" alt="O'Reilly Discount Tag">
 
 ## Presentations
 
