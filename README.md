@@ -30,6 +30,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 
 ## Sponsors
 * [TEK Systems](http://www.teksystems.com/)
+* [JetBrains](https://www.jetbrains.com/) - Attend our next meetup for a chance to win an free license to the JetBrains IDE of your choice!
 
 ## Presentations
 
