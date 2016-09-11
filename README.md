@@ -35,7 +35,7 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 
 ## Presentations
 
-* [From Java To Groovy](https://github.com/JUGGL/java2groovy) - A discussions and some example code of how/when/wy you might want to convert from Java to Groovy for programming on the JVM
+* [From Java To Groovy](https://github.com/JUGGL/java2groovy) - A discussion and some example code of how/when/why you might want to convert from Java to Groovy for programming on the JVM
 * [Java 8 Collections & Streams](https://github.com/JUGGL/2016-august-collections-streams)
 * [Dependency Injection Workshop](https://github.com/JUGGL/2016-march-dependency-injection)
 * [Using Spock for Testing](https://github.com/JUGGL/2016-february-spock)
