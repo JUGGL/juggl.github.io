@@ -35,5 +35,10 @@ things you can do on top of the JVM. This includes, but it not necessarily limit
 
 ## Presentations
 
+* [Java 8 Collections & Streams](https://github.com/JUGGL/2016-august-collections-streams)
+* [Dependency Injection Workshop](https://github.com/JUGGL/2016-march-dependency-injection)
+* [Using Spock for Testing](https://github.com/JUGGL/2016-february-spock)
+* [Gradle And NIO - October 2015](https://github.com/JUGGL/october-2015)
+* [Functional Programming In Java 8](https://github.com/JUGGL/java-8-functional-introduction)
 * [Vert.x Chat Workshop](http://www.juggl.us/codepalousa-vertx-chat/) - A workshop for learning how to write applications using the [Vert.x](http://vertx.io/) toolkit in JavaScript on the JVM.
 * [JMX Example](http://www.juggl.us/JMXExample/) - An application demo about using Java Management Extensions to monitor your Java applications.
